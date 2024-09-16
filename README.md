@@ -4,4 +4,4 @@ SQL,
 Excel,
 Power Bi,
 Python  and 
-R
+R.
