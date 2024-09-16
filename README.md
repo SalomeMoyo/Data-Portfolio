@@ -2,3 +2,6 @@ This is my Data Portfolio from my bootcamp and here you will find my data analys
 Tableau
 SQL
 Excel
+Power Bi
+Python 
+R
